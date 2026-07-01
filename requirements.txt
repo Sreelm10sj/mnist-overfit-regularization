@@ -1,0 +1,16 @@
+# Core machine learning dependencies
+torch==2.5.1
+torchvision==0.20.1
+numpy==2.4.4
+matplotlib==3.11.0
+scikit-learn==1.9.0
+
+# Jupyter notebook support
+notebook==7.6.0
+ipykernel==7.3.0
+
+# Note:
+# The local environment currently uses CUDA builds:
+# torch==2.5.1+cu121 and torchvision==0.20.1+cu121.
+# If you need GPU acceleration, install the matching PyTorch build for your system
+# from the official PyTorch installation instructions.
