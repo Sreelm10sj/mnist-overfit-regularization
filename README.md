@@ -74,7 +74,7 @@ Total trainable parameters: **16,305,162**.
 | Final train accuracy | 98.80% | 99.82% | 98.14% |
 | Final validation accuracy | 97.35% | 98.32% | 98.29% |
 | Train-validation accuracy gap | 1.45 percentage points | 1.50 percentage points | -0.15 percentage points |
-| Test accuracy | Not evaluated separately | 98.19% | 98.56% |
+| Test accuracy | 97.49% | 98.19% | 98.56% |
 
 The baseline model provides a healthy reference point. The overfit model achieves the highest training accuracy, but its validation loss rises. The regularized model gives the best held-out test accuracy, improving from **98.19%** to **98.56%**.
 
