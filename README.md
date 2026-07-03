@@ -62,7 +62,7 @@ Linear: 1024 -> 10
 Output: logits for digits 0-9
 ```
 
-Total trainable parameters: **16,305,162**.
+Total trainable parameters: **25,266,186**.
 
 ## Results
 
